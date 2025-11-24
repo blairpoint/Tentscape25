@@ -1,0 +1,7 @@
+{
+  "name": "TentScape",
+  "description": "A real-time festival management and navigation platform connecting artists, promoters, and clients with live stage tracking and friend localization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
